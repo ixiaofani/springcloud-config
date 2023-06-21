@@ -1,3 +1,3 @@
 config:
-  info: "Spring cloud config-dev,version=3"
+  info: "Spring cloud config-dev,version=5"
   msg: "sucess !!!!!"
